@@ -25,7 +25,7 @@ In this project, I have created a movie recommendation system using Jupyter, Pyt
 * pandas
 * scikit-learn
 
-*DATA: I have downloaded the data from: # https://files.grouplens.org/datasets/movielens/ml-25m.zip 
+DATA: I have downloaded the data from: https://files.grouplens.org/datasets/movielens/ml-25m.zip 
 
 
 **2. Stock Price Predictions:**
