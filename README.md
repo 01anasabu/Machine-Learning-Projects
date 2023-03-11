@@ -10,13 +10,13 @@
 *Project Overview:*
 In this project, I have predict the price of the S&P500 stock market index.
 
-* a. Downloaded S&P 500 price data
-* b. Cleaning and visualizing our stock market data
-* c. Setting up our target for machine learning
-* d. Training an initial machine learning model
-* e. Building a backtesting system
-* f. Adding additional predictors to our model
-* g. Improving our model
+* Downloaded S&P 500 price data
+* Cleaning and visualizing our stock market data
+* Setting up our target for machine learning
+* Training an initial machine learning model
+* Building a backtesting system
+* Adding additional predictors to our model
+* Improving our model
 
 *Project Steps:*
 * Downloaded the data using the yfinance package
