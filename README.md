@@ -6,6 +6,7 @@
 
 
 **2. Stock Price Predictions:**
+
 *Project Overview:*
 In this project, I have predict the price of the S&P500 stock market index.
 
